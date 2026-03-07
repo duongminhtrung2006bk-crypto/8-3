@@ -1,0 +1,7 @@
+﻿/* Root stylesheet manifest. Edit feature files in src/styles/ instead. */
+@import url("./src/styles/00-base.css");
+@import url("./src/styles/01-home.css");
+@import url("./src/styles/02-stage.css");
+@import url("./src/styles/03-letter.css");
+@import url("./src/styles/04-wish.css");
+@import url("./src/styles/05-responsive.css");
