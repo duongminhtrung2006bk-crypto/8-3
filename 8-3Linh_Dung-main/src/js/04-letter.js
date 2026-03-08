@@ -87,7 +87,7 @@ function signLetterName() {
     return;
   }
 
-  const fullText = signature.dataset.signature || "Minh Phạm";
+  const fullText = signature.dataset.signature || "Minh Trung";
   signature.textContent = "";
   signatureWrap?.classList.add("is-signing");
 

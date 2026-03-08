@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   girls: {
     linh: {
-      name: "Chị TrangTrang",
+      name: "Ý AN",
       heroImage: "./assets/Linh/Linh1.png",
       images: [
         "./assets/Linh/Linh1.png",
@@ -29,19 +29,19 @@ const CONFIG = {
         "./assets/Linh/Linh6.jpg",
       ],
      letter: [
-  "Dear Chị Trang,",
+  "Dear Ý An,",
   "",
   "Happy Women's Day.",
   "",
   "I hope today feels a little softer and brighter for you. Like a quiet moment where everything slows down just enough for you to smile.",
   "",
-  "Em chúc chị ngày 8/3 vui vẻ tương lai sẽ đánh cầu nhiều và hay hơn.",
+  "Anh xin lỗi vì trò đùa vô tư của anh làm cho em buồn anh mong trong tương lai gần sẽ được đi chơi cùng em để anh sửa những lỗi làm mà anh có.",
   "",
   
 ].join("\n")
     },
     dung: {
-      name: "Chị TrangTrang",
+      name: "Ý An",
       heroImage: "./assets/Dung/Dung1.png",
       images: [
         "./assets/Dung/Dung1.png",
@@ -52,13 +52,13 @@ const CONFIG = {
         "./assets/Dung/Dung6.png",
       ],
       letter: [
-  "Dear Chị Trang,",
+  "Dear Ý AN,",
   "",
   "Happy Women's Day.",
   "",
   "I hope today feels a little softer and brighter for you. Like a quiet moment where everything slows down just enough for you to smile.",
   "",
-  "Em chúc chị ngày 8/3 vui vẻ tương lai sẽ đánh cầu nhiều và hay hơn.",
+  "NHân dịp 8/3 anh chúc em vui vẻ có nhiêu thành công trong hành trình đại học của mình đạt được những gì em muốn và chúc cho mọi điều tốt đẹp nhất đến với em.",
   "",
 ].join("\n")
     },
@@ -71,8 +71,8 @@ const CONFIG = {
     heroSubtitle:
       "Mỗi vì sao là một hành trình nhỏ chứa những lời chúc và ký ức dành riêng cho bạn.",
 
-    choiceTagLinh: "STAR 01",
-    choiceTagDung: "STAR 02",
+    choiceTagLinh: "Điều Anh muốn nói",
+    choiceTagDung: "Lời chúc 8/3",
 
     choiceHintLinh: "Chạm để mở hành trình ánh sao",
     choiceHintDung: "Bước vào khu vườn sao bí mật",
@@ -80,7 +80,7 @@ const CONFIG = {
     wishBtn: "Gửi đi một ngôi sao",
 
     heroCredit:
-      "A tiny universe made with care by <strong>Minh Phạm ✨</strong>",
+      "A tiny universe made with care by <strong>Minh Trung ✨</strong>",
 
     stagePill: "Cosmic Receiver",
     letterPill: "Space Letter",
@@ -132,7 +132,7 @@ const CONFIG = {
     wishBtn: "Thả đi một cánh hoa",
 
     heroCredit:
-      "A small sakura garden by <strong>Minh Phạm 🌸</strong>",
+      "A small sakura garden by <strong>Minh Trung 🌸</strong>",
 
     stagePill: "Petal Receiver",
     letterPill: "Sakura Letter",
